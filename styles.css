@@ -19,7 +19,7 @@ li{
     margin-right: 15px;
 }
 #title{
-    display: inline;
+    display: inline-block;
     position: absolute;
     color:rgba(0, 0, 0, 0.8); /*faedcdc6 - peach-ish, A7727D - maroon-ish*/
     text-align: center;
